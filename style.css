@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+.box{
+    height: 20em;
+    width: 20em;
+    margin: 20px;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: 600;
+}
+.btn{
+    border-radius: 5px;
+    padding: 7px;
+    background-color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
